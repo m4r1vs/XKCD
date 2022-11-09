@@ -1,4 +1,2 @@
-
-        [console_scripts]
-        xkcd=xkcd:cli
-    
+[console_scripts]
+xkcd = xkcd:cli
